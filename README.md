@@ -79,3 +79,14 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 12. Push the branch to the `origin` remote on GitHub
 
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
+
+Survey Questions:
+What parts of the workshop today were "awesome" for your learning?
+  Pretty much all of it. Starting with almost no knowledge at all, I found todays workshop very easy to follow and very informative.
+  
+What parts of today's workshop could be improved for next time?
+  I thought this was very well organized and don't have any real complaints. Having so many instructors available and perusing the room made it much easier to ask for help without feeling like you were disrupting the course or exposing your ignorance. Maybe snacks... everyone likes snacks.
+
+On a scale of 1-10 how likely are you to reccommend this workshop to a friend?
+  It depends on whether or not they intend to take a full course with code-fellows. If they do intend to do so, then 10. If not,   I would still recommend it because I think it's interesting and valuable information to know and writing in the terminal makes   me feel like a badass... so no lower than a 7.
+
